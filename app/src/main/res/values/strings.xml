@@ -7,4 +7,11 @@
     <string name="descricao">Adicione uma descrição:</string>
     <string name="dataPrevista">Data para realização:</string>
     <string name="salvar">Salvar</string>
+    <string name="paginaPrincipal">Página principal</string>
+    <string name="cadastroTarefa">Página de cadastro</string>
+    <string name="subtarefas">Subtarefas</string>
+    <string name="detalhesTarefa">Detalhes tarefa</string>
+    <string name="tarefaConcluida">Tarefa Concluida!!</string>
+    <string name="atrasado">Atrasado</string>
+    <string name="aberto">Tarefa em aberto</string>
 </resources>
